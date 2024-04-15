@@ -1,0 +1,25 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonp84/simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonp84/simon-game/issues"
+  },
+  "homepage": "https://github.com/leonp84/simon-game#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
